@@ -1,3 +1,8 @@
+**Contact**: +1-(949)-678-2212 | sushmitj@uci.edu | [LinkedIn/SushmithaJagannath](https://www.linkedin.com/in/SushmithaJagannath) | [GitHub/SushmithaJagannath](https://github.com/SushmithaJagannath)  
+**Location**: Irvine, CA
+
+---
+
 ## Education
 
 **Master’s in Computer Science**  
@@ -10,7 +15,7 @@ B.M.S College of Engineering, Bangalore, India (Jun 2017 – Mar 2021)
 GPA: 3.68/4.00  
 Relevant Courses: OOPS, Software Engineering, Mobile Computing, Database Management, Web Development, Computer Network and Security, Data Mining
 
-***
+---
 
 ## Experience
 
@@ -33,7 +38,7 @@ Deloitte Consulting, Bangalore, India (Sep 2021 – Jul 2023)
 - Created data models and optimized SQL queries, reducing query execution time by 30%.
 - Led the Tableau migration, eliminating redundant reports and improving system consistency.
 
-***
+---
 
 ## Projects
 
@@ -42,7 +47,7 @@ Deloitte Consulting, Bangalore, India (Sep 2021 – Jul 2023)
 - Created custom parsing definitions to extract relevant data for testing, reporting, and improving workflow efficiency.
 - Integrated SQL databases to store log entries as Java objects for assertions, reporting, and automated decision-making.
 
-### **RideShare Application** | _RESTful API, Node.js, Express, AWS, SQL, Google Maps API_ (Jan 2024 – May 2024)  
+### **RideShare Application** | _RESTful API, Node.js, Express, AWS, SQL, GoogleMaps API_ (Jan 2024 – May 2024)  
 - Developed a responsive RideShare app with Flutter, ensuring a seamless cross-platform experience on iOS and Android.
 - Created a scalable backend with Node.js and Express.js, handling thousands of concurrent requests efficiently.
 - Deployed on AWS EC2, leveraging its scalable infrastructure for high availability and reliable performance.
@@ -62,7 +67,7 @@ Deloitte Consulting, Bangalore, India (Sep 2021 – Jul 2023)
 - Implemented FaceNet for facial recognition, enhancing identification accuracy to 95% in real-time violation detection.
 - Deployed the system on Streamlit, achieving real-time processing up to 60 FPS for efficient public safety monitoring.
 
-***
+---
 
 ## Technical Skills
 
