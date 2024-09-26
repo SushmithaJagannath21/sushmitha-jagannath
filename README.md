@@ -1,5 +1,3 @@
-# Sushmitha Jagannath
-
 **Contact**: +1-(949)-678-2212 | sushmitj@uci.edu | [LinkedIn/SushmithaJagannath](https://www.linkedin.com/in/SushmithaJagannath) | [GitHub/SushmithaJagannath](https://github.com/SushmithaJagannath)  
 **Location**: Irvine, CA
 
