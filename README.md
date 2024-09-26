@@ -1,4 +1,4 @@
-## Sushmitha Jagannath
+## Software Developer
 
 ---
 
